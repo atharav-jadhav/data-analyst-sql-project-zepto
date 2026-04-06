@@ -1,0 +1,8 @@
+1. Find the top 10 best-value products based on the discount percentage
+2. Find products with high MRP but out of stock
+3. Calculate estimated revenue for each category
+4. Find all products where MRP is greater than ₹500 and discount is less than 10%
+5. Identify the top 5 categories offering the highest average discount percentage
+6. Find the price per gram for products above 100g and sort by best value
+7. Group products into categories based on weight: Low, Medium, Bulk
+8. Find the total inventory weight per category
